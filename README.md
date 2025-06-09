@@ -1,11 +1,16 @@
 # Spotify-Listening-Behavior-Analysis
 This report analyzes Spotify user behavior across three dashboards highlighting trends in listening time, artist preferences, song and album performance, seasonal patterns, and user engagement metrics.
 
+## Contents
+- [Key Findings & Insights](https://github.com/Ani-Favour/Spotify-Listening-Behavior-Analysis?tab=readme-ov-file#key-findings--insights)
+
+
+
 ## Key Findings & Insights
 
 
 ![](https://github.com/Ani-Favour/Spotify-Listening-Behavior-Analysis/blob/main/Listening%20Volume%20%26%20Engagement.png)
-1. Listening Volume & Engagement
+1. **Listening Volume & Engagement**
  - Total Listening Time: 320.49K minutes (~222 days).
  - Total Streams: 150K streams across 4,112 unique artists.
  - Average Daily Listening Time: 118.05 minutes.
@@ -14,7 +19,7 @@ This report analyzes Spotify user behavior across three dashboards highlighting 
 
 
    
-2. Behavioral Patterns
+2. **Behavioral Patterns**
  
  
  ![](https://github.com/Ani-Favour/Spotify-Listening-Behavior-Analysis/blob/main/Peak%20Listening%20Day.png)
@@ -36,7 +41,7 @@ This report analyzes Spotify user behavior across three dashboards highlighting 
   ![](https://github.com/Ani-Favour/Spotify-Listening-Behavior-Analysis/blob/main/Numbers%20of%20skipped%20Tracks.png)
  - Skipped Tracks: 7,869, possibly due to selective listening or mismatched recommendations
 
-   3. Seasonal & Monthly Trends
+   3. **Seasonal & Monthly Trends**
   
 
 
@@ -56,7 +61,7 @@ This report analyzes Spotify user behavior across three dashboards highlighting 
 
 
 
-4. Top Content
+4. **Top Content**
 
 
 
@@ -76,7 +81,7 @@ Fellowship Reunited").
 ![](https://github.com/Ani-Favour/Spotify-Listening-Behavior-Analysis/blob/main/Most%20Listened%20to%20Artist%20Each%20Year.png)
  - Top Artists by Year: 3 Doors Down (2020 peak), 10,000 Maniacs, Weird Al Yankovic.
 
-   Actionable Recommendations
+## Actionable Recommendations
 1. Target Prime Listening Windows
  Launch personalized playlists or promotions during peak hours (5-8 PM) and peak days (Fridays)
 to maximize engagement.
