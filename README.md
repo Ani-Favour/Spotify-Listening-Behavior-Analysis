@@ -101,3 +101,7 @@ algorithms accordingly.
 John Mayer to encourage ongoing loyalty.
 By strategically using these insights, Spotify can tailor experiences, reduce churn, and increase
 satisfaction through more personalized and timely content delivery.
+
+## Datasource
+- Maven Analytics [Website](https://app.mavenanalytics.io/datasets?search=Spotify+Streaming)
+
