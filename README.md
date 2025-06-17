@@ -8,7 +8,6 @@ This report analyzes Spotify user behavior across three dashboards highlighting 
 
 ## Key Findings & Insights
 
-
 ![](https://github.com/Ani-Favour/Spotify-Listening-Behavior-Analysis/blob/main/Listening%20Volume%20%26%20Engagement.png)
 1. **Listening Volume & Engagement**
  - Total Listening Time: 320.49K minutes (~222 days).
